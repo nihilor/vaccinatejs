@@ -1,6 +1,6 @@
 {
   "name": "vaccinatejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vaccinate against Corona. Set a sign. Get the booster.",
   "main": "index.js",
   "scripts": {
