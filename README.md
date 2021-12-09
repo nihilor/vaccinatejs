@@ -1,4 +1,4 @@
-# vaccinatejs
+# vaccinatejs 💉🦠
 Vaccinate against Corona. Set a sign. Get the booster.
 
 ## Why?
@@ -11,7 +11,7 @@ VaccinateJS is a statement you as a developer can make. Install, star, watch or 
 
 ## How?
 
-1. Just `npm install -S vaccinatejs` this package and add it to your project. It containts nothing more than this README.md.
-2. Follow this repository to get updates.
+1. Just `npm install -S vaccinatejs` this package and add it to your project. It contains nothing more than this README.md.
+2. Watch this repository to get updates.
 3. Give a stargazer to spread the word.
 4. Point out major campaigns and actions that we can list here by committing changes to the README.md.
