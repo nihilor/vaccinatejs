@@ -1,0 +1,20 @@
+{
+  "name": "vaccinatejs",
+  "version": "1.0.0",
+  "description": "Vaccinate against Corona. Set a sign. Get the booster.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilor/vaccinatejs.git"
+  },
+  "keywords": [],
+  "author": "Mark Lubkowitz <me@mlu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nihilor/vaccinatejs/issues"
+  },
+  "homepage": "https://github.com/nihilor/vaccinatejs#readme"
+}
