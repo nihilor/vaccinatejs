@@ -3,7 +3,7 @@ Vaccinate against Corona. Set a sign. Get the booster.
 
 ## Why?
 
-Vaccination is necessary to control the corona pandemic and save lives. Vaccinate against Corona. Set a sign. Get the booster.
+Vaccination is necessary to control the corona pandemic and save lifes. Vaccinate against Corona. Set a sign. Get the booster.
 
 ## What?
 
